@@ -26,6 +26,7 @@ The platform will consist of the following components:
 - Install [DBT](https://docs.getdbt.com/docs/get-started/pip-install): `pip install dbt-postgres`
 - Install [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/start.html)
 - Install [Querybook](https://github.com/pinterest/querybook)
+- Install [Datahub](https://datahubproject.io/docs/quickstart/)
 
 ## FIRST STEPS
 
