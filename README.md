@@ -17,6 +17,7 @@ The platform will consist of the following components:
 - Install [Python](https://www.python.org/downloads/)
 - Install [Java](https://www.java.com/en/download/help/download_options.html)
 - Install [docker](https://docs.docker.com/engine/install/)
+  - in Linux edit your /etc/hosts and add `172.17.0.1 docker.host.internal`
 
 ## INSTALL COMPONENTS
 
