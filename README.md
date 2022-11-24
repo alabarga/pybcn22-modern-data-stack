@@ -30,7 +30,7 @@ The platform will consist of the following components: - Data warehouse - Data i
 git clone https://github.com/alabarga/pybcn22-modern-data-stack.git
 ``` 
 
-- Generate or download [synthetic data](https://github.com/alabarga/pybcn22-modern-data-stack/blob/main/synthea/README.md)
+- Generate or download [synthetic data](https://github.com/alabarga/pybcn22-modern-data-stack/blob/main/synthea/)
 
 
 
