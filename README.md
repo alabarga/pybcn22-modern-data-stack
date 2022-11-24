@@ -28,6 +28,9 @@ The platform will consist of the following components:
 - Install [Querybook](https://github.com/pinterest/querybook)
 - Install [Datahub](https://datahubproject.io/docs/quickstart/)
 
+## Have a drink, and relax ...
+- https://www.youtube.com/watch?v=y3TxcejHw-4
+
 ## FIRST STEPS
 
 - Clone this repo
