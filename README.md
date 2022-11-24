@@ -29,6 +29,8 @@ The platform will consist of the following components:
 - Install [Datahub](https://datahubproject.io/docs/quickstart/)
 
 ## Have a drink, and relax ...
+
+![](https://i.ytimg.com/vi/y3TxcejHw-4/hqdefault.jpg)
 - https://www.youtube.com/watch?v=y3TxcejHw-4
 
 ## FIRST STEPS
