@@ -24,7 +24,8 @@ The platform will consist of the following components:
 - Download [synthea](https://synthetichealth.github.io/synthea/) patient data generator: [synthea-with-dependencies.jar](https://github.com/synthetichealth/synthea/releases/download/master-branch-latest/synthea-with-dependencies.jar)
 - Install [Dremio](https://www.dremio.com/): `docker pull dremio/dremio-oss`
 - Install [PostgreSQL](https://www.postgresql.org): `docker pull postgres` 
-- Install [DBT](https://docs.getdbt.com/docs/get-started/pip-install): `pip install dbt-postgres`
+  - Install a SQL client such as [PgAdmin](https://www.pgadmin.org/) or [DBeaver](https://dbeaver.io/)
+- Install [DBT](https://docs.getdbt.com/docs/get-started/pip-install): `pip install dbt-postgres dbt-dremio`
 - Install [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/start.html)
 - Install [Querybook](https://github.com/pinterest/querybook)
 - Install [Datahub](https://datahubproject.io/docs/quickstart/)
