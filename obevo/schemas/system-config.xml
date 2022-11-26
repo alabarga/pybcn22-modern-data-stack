@@ -1,0 +1,13 @@
+<dbSystemConfig type="POSTGRESQL">
+    <schemas>
+      <schema name="cdm" />
+      <schema name="vocabularies" />
+    </schemas>
+    <environments>
+
+        <dbEnvironment name="postgres"
+            dbHost="localhost" dbPort="5432" dbServer="synthea">
+        </dbEnvironment>
+
+    </environments>
+</dbSystemConfig>
